@@ -59,7 +59,6 @@ Install Python dependencies:
 cd scripts
 pip install -r requirements.txt
 ```
-*(Note: add a `requirements.txt` listing your actual dependencies — e.g., `openai`, `google-generativeai`, `pillow`, `requests`, etc.)*
 
 ---
 
@@ -123,18 +122,15 @@ This thesis project is a collaborative effort:
 
 - **Abyead Zarif Hassan** ([@AbyeadZarifHassan](https://github.com/AbyeadZarifHassan))
 - **Tarannum Samiha** ([@Tarannum-Samiha](https://github.com/Tarannum-Samiha))
-- Original simulation and agent script implementation by [@booleanwolf](https://github.com/booleanwolf)
 
 ---
 
 ## 🎓 Thesis Information
 
-- **Institution:** *Your University Name*
-- **Department:** *Your Department*
-- **Supervisor:** *Supervisor's Name*
+- **Institution:** University of Dhaka
+- **Department:** Department of Robotics and Mechatronics Engineering
+- **Supervisor:** Dr.Md Mehedi Hasan
 - **Year:** 2025–2026
-
-*(Please fill in the placeholders above.)*
 
 ---
 
@@ -147,7 +143,6 @@ This project is intended for academic and research purposes. If you wish to reus
 ## 🙏 Acknowledgments
 
 - Thanks to our thesis supervisor for guidance.
-- Thanks to [@booleanwolf](https://github.com/booleanwolf) for contributions to the original simulation and agent code.
 - Built using Unity and open-source VLM frameworks.
 
 ---
